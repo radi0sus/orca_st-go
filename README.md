@@ -56,5 +56,5 @@ solution is to replace "⁻¹" with the ascii characters "-1".
 ## Examples
 See the [Python edition](https://github.com/radi0sus/orca_st).
 Differences:
-To open a file use the `-f filename`.
+To open a file use `-f filename`.
 The `-s` option is not available in the Go edition.
