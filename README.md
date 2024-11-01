@@ -1,7 +1,9 @@
-# orca-st (Go edition)
+# orca-st (Go Edition)
 (Hassle-free) extraction of state informations from [ORCA](https://orcaforum.kofo.mpg.de) 
 output files. Threshold based printing is possible.
- 
+
+Don't like Go? Try the [Python Edition](https://github.com/radi0sus/orca_st)!
+
 ## Quick start
  Start the script with:
 ```console
